@@ -99,12 +99,7 @@ Learning Goals:
 
 This project was built to explore how machine learning can be applied to system monitoring and cloud observability.
 
-## 🚀 Live API
 
-This project exposes a FastAPI endpoint for anomaly detection.
-
-You can test it via the interactive docs (temporary):
-https://improved-fiesta-779p4g5p55q6px4p-8000.app.github.dev/docs
 
 
 Author:
